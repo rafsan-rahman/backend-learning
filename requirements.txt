@@ -1,0 +1,9 @@
+fastapi[all]
+diffusers == 0.4.0
+transformers
+pandas
+scipy
+ftfy
+sqlalchemy
+alembic
+psycopg2-binary
